@@ -1,4 +1,4 @@
-# CyberSecurity-Projects
+# Cloudcredits
 This repository contains my cybersecurity mini projects developed during my internship.
 
 ## Projects
